@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="30" viewBox="0 0 180 30" role="img" aria-labelledby="title desc">
+  <title id="title">API key / Free trial</title>
+  <desc id="desc">Use your own DeepSeek API key or the available free trial.</desc>
+  <rect x=".5" y=".5" width="179" height="29" rx="7" fill="#eff7f4" stroke="#d6e5dc"/>
+  <g fill="none" stroke="#4b806b" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="17" cy="12" r="4.5"/>
+    <path d="m20.3 15.3 6.4 6.4m-2.4-2.4 2-2m-4 0 2-2"/>
+  </g>
+  <text x="38" y="19.5" fill="#426957" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="13" font-weight="500">API key / Free trial</text>
+</svg>
