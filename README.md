@@ -20,7 +20,8 @@
 <p align="center">
   <a href="https://promptos.cn/#install-actions"><strong>下载安装 ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://promptos.cn/">官网与交互演示</a> &nbsp; · &nbsp;
-  <a href="https://github.com/zhengzhoujiao/immersiveAsk/issues">反馈问题</a> &nbsp; · &nbsp;
+  <a href="https://github.com/zhengzhoujiao/immersiveAsk/releases">版本下载</a> &nbsp; · &nbsp;
+  <a href="https://github.com/zhengzhoujiao/immersiveAsk/issues">问题反馈</a> &nbsp; · &nbsp;
   <strong>简体中文</strong> · <a href="README.en.md">English</a>
 </p>
 
